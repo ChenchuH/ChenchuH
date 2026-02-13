@@ -12,4 +12,3 @@
 ![HTML5](https://img.shields.io/badge/HTML%205-E34F26?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%203-1572B6?logo=css&logoColor=white)
 
-![ChenchuH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenchuH&show_icons=true&theme=dracula)
